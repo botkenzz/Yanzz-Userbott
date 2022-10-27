@@ -79,7 +79,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 <summary><b>🔗 Deploy To Bot Heroku</b></summary>
 <br>
 
-<p><a href="https://telegram.dog/XTZ_HerokuBot?start=QXlpaW5YZC9BeWlpbi1Vc2VyYm90IEF5aWluLVVzZXJib3Q"><img src="https://img.shields.io/badge/BUAT DI -BOT HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" height="45" /></a></p>
+<p><a href="https://telegram.dog/XTZ_HerokuBot?start=Ym90a2VuenovWWFuenotVXNlcmJvdHQgQXlpaW4tVXNlcmJvdA=="><img src="https://img.shields.io/badge/BUAT DI -BOT HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" height="45" /></a></p>
 
 </details>
 
